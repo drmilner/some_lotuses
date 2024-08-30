@@ -33,3 +33,23 @@ p {
 .bold {
     font-weight: bold;
 }
+
+.blogHeader {
+    color: white;
+}
+
+.blogText {
+    width: 445px;
+    text-align: justify;
+}
+
+.gray {
+    color: lightgray;
+}
+.grayBackground {
+    background-color: gray;
+}
+
+.white {
+    color: white;
+}
